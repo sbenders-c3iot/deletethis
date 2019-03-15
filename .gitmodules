@@ -1,0 +1,3 @@
+[submodule "subgoeshere"]
+	path = subgoeshere
+	url = https://sbenders-c3iot@github.com/sbenders-c3iot/submoduletest.git
